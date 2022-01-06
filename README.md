@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilyJang
 - 👀 I’m interested in WebPublishing
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,JQUERY
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, JQUERY
 - 📫 How to reach me :: emily_jang@kakao.com
 
 <!---
